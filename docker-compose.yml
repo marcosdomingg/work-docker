@@ -10,7 +10,7 @@ services:
     environment:
       DB_HOST: db
       DB_USER: root
-      DB_PASSWORD: example
+      DB_PASSWORD: electivados
       DB_NAME: testdb
 
   db:
